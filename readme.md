@@ -40,5 +40,30 @@ Agradecemos tu interés en CanaGrow, tu fuente confiable para productos y servic
 
 ---
 
+
+## Conoce al Equipo de CanaGrow 🌿
+
+En CanaGrow, estamos orgullosos de contar con un equipo de profesionales apasionados y expertos en el campo del cannabis legal. Conoce a algunos de nuestros miembros clave:
+
+### Juan Pérez - CEO y Co-fundador
+Con una amplia experiencia en el sector del cannabis y un firme creyente en el potencial terapéutico de esta planta, Juan lidera CanaGrow con visión e innovación.
+
+### María López - Directora de Operaciones
+Especialista en logística y operaciones, María asegura que todos nuestros productos y servicios cumplan con los más altos estándares de calidad y eficiencia.
+
+### Carlos Sánchez - Jefe de Cultivo
+Con años de experiencia en agronomía y técnicas de cultivo de cannabis, Carlos supervisa nuestras operaciones de cultivo, garantizando productos de la mejor calidad.
+
+### Ana Torres - Responsable de Marketing
+Creativa y con un profundo conocimiento del mercado, Ana dirige nuestras estrategias de marketing, conectando a CanaGrow con nuestra comunidad de clientes.
+
+### David Jiménez - Asesor Legal
+Experto en legislación sobre el cannabis, David asegura que todas nuestras operaciones se realicen dentro del marco legal, ofreciendo tranquilidad a nuestros clientes y al equipo.
+
+---
+
+Estamos comprometidos con ofrecer el mejor servicio y productos de calidad a nuestra comunidad. Para más información sobre CanaGrow y cómo podemos ayudarte, no dudes en contactarnos.
+
+
 CanaGrow © 2024. Todos los derechos reservados.
 
