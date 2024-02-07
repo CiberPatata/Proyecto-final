@@ -1,0 +1,52 @@
+Plantilla de Centro de Procesamiento de Datos (CPD) para Cannagrow
+1. Información General:
+•	Nombre de la Empresa: Cannagrow
+•	Ubicación del CPD: Carrer Torreta, num. 26
+•	Responsable del CPD: María Rodríguez
+•	Fecha de Creación de la Plantilla: 6 de febrero de 2024
+2. Descripción del CPD:
+El CPD de Cannagrow es el centro de operaciones de tecnología de la información (TI) que respalda todas las actividades relacionadas con el cultivo, procesamiento y distribución de productos relacionados con el cannabis.
+3. Equipamiento:
+•	Servidores:
+•	5 servidores HP ProLiant DL380 Gen10 con procesadores Intel Xeon, 256 GB de RAM y 10 TB de almacenamiento en disco.
+•	Almacenamiento:
+•	Almacenamiento en red (SAN) de 100 TB para datos críticos y copias de seguridad.
+•	Red:
+•	Switches Cisco Nexus 9000, routers Cisco ASR 1000 Series, firewall Palo Alto Networks PA-5200 Series.
+•	Sistemas de Refrigeración:
+•	Sistema de refrigeración por agua con control de temperatura automático.
+•	Sistemas de Energía:
+•	UPS Eaton 9PX 10 kVA, generador diésel Caterpillar de respaldo.
+4. Seguridad:
+•	Control de Acceso Físico:
+•	Acceso biométrico y tarjetas de identificación para personal autorizado.
+•	Seguridad Perimetral:
+•	Cerca electrificada perimetral y cámaras de seguridad con grabación continua.
+•	Protección de Datos:
+•	Cifrado AES-256 en reposo y en tránsito, firewall de próxima generación para inspección profunda de paquetes, solución antivirus corporativa actualizada.
+5. Procedimientos Operativos:
+•	Respaldo de Datos:
+•	Copias de seguridad incrementales diarias y copias completas semanales almacenadas en ubicación geográficamente separada.
+•	Mantenimiento Preventivo:
+•	Inspección mensual de equipos y limpieza de sistemas de refrigeración.
+•	Monitoreo y Alertas:
+•	Uso de herramientas de monitoreo como SolarWinds y Nagios para supervisión en tiempo real y alertas automatizadas vía correo electrónico y SMS.
+
+
+
+
+
+
+6. Plan de Continuidad del Negocio (BCP):
+•	Respaldo de Energía:
+•	UPS para mantener la operación durante cortes de energía y generador de respaldo con capacidad para 72 horas de funcionamiento continuo.
+•	Respaldo de Datos y Recuperación ante Desastres:
+•	Procedimientos documentados para la restauración de sistemas críticos y recuperación de datos desde copias de seguridad fuera del sitio en caso de desastre.
+7. Responsabilidades:
+•	Responsabilidades del Personal:
+•	El personal del CPD está capacitado para operar los sistemas, mantener la seguridad de los datos y seguir los procedimientos de emergencia.
+•	Procedimientos de Seguridad:
+•	Revisiones periódicas de seguridad, evaluaciones de vulnerabilidad y actualizaciones de políticas para cumplir con estándares de seguridad de la industria.
+8. Actualizaciones y Revisiones:
+Esta plantilla será revisada y actualizada trimestralmente para reflejar los cambios en la infraestructura y los procedimientos del CPD de Cannagrow.
+
