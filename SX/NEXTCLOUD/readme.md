@@ -26,4 +26,4 @@ Este repositorio contiene el guion para la implementación y personalización de
 
 Este guion establece los pasos necesarios para la implementación y personalización de Nextcloud en una intranet, garantizando una configuración óptima de usuarios, permisos y accesos, así como una experiencia de usuario adecuada y la integración de herramientas adicionales para mejorar la funcionalidad y la colaboración dentro de la plataforma.
 
-![Texto alternativo](CiberPatata/FCT/SX/NEXTCLOUD/nextcloud_logo_icon_168948.png)
+![Texto alternativo](../NEXTCLOUD/Nextcloud_Logo.svg.png)
