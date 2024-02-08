@@ -1,0 +1,10 @@
+Participaciones dentro del proyecto
+Borja: Creción de multiples scripts en bash , Instalación y configuración de NextCloud, Copias de seguridad
+Hoy:Instalación y configuración de NextCloud, Copias de seguridad
+Andreu:Wordpress en UbuntuServer, Moodle y NextCloud
+Hoy:instalar Wordpress en UbuntuServer
+Marcos:CPD, Marketing, Analisis de mercado, Instalar UbuntuServer
+Hoy: Cisco Packet tracer, 
+Jaume: Dafo , Organigrama , CANVAS, Descripción General, AD 
+Hoy: Instalación de VPN y FTP en WindowsServer
+
