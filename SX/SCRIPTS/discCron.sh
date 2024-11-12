@@ -30,3 +30,7 @@ END
 # Envía la notificación a Discord utilizando Python 3
 send_discord_notification
 
+//! Script de cron para actualizar el sistema
+//! Versión: 1.0
+//! Autor: Borja
+//! Fecha: 2023-03-01
