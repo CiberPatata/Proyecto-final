@@ -10,7 +10,7 @@ message=$(echo -e "Actualización del sistema completada. Paquetes actualizados:
 # Guardar el mensaje en un archivo temporal
 echo "$message" > /tmp/message.txt
 
-# Webhook URL de Discord (reemplaza 'TU_WEBHOOK_URL' con tu URL real)
+# Webhook URL de Discord 
 webhook_url="https://discord.com/api/webhooks/1196147664417476701/iRNxIdTwHF9hsY_igFlLStgE-8vKBWvhMbVXLGX2A4RT1FbXtsTKFYkFUnexAXz8j0ng"
 
 # Función para enviar el mensaje al webhook de Discord
